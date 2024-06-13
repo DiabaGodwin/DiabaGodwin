@@ -2,7 +2,7 @@
 <h3 align="center">A driven and dedicated Backend Developer</h3>
 - I am a Backend Engineer with over 2 years of experience in Backend Development, With a focus on API development, I leverage C# and ASP.NET to build backend applications. In several projects I contribute to development and make the team achieve their own task and of course I'm making sure that developments are in line with the Business requirements.
 - :telescope: I’m currently working on **ERP Systems and Movie A**
-- :speech_balloon: Ask me about ** Backend Development, Database Development and integrations, API Integrations,  C#, Nextjs, React Native, and **ASPNET**
+- :speech_balloon: Ask me about ** Backend Development, Database Development and integrations, API Integrations,  C#, Nextjs, and **ASPNET**
 - :mailbox: How to reach me **cobbiekay8642@gmail.com** <p align="left">
 <a href="https://www.linkedin.com/in/diaba-godwin-762675195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Frank Addai" height="30" width="40" /></a>
 <!--<a href="https://www.hackerrank.com/profile/jamesbondyeboah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Jesse Yeboah" height="30" width="40" /></a>-->
