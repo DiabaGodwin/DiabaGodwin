@@ -3,7 +3,7 @@
 
 ### 🚀 A Driven and Dedicated Backend Developer  
 
-I am a **Backend Engineer with 2+ years of experience** in designing, developing, and maintaining scalable backend systems.  
+I am a **Backend Engineer with 3+ years of experience** in designing, developing, and maintaining scalable backend systems.  
 My expertise is in **API development** using **C#** and **ASP.NET**, where I build reliable, efficient, and secure backend applications.  
 
 I enjoy working in collaborative environments, ensuring that development efforts align with **business requirements** while maintaining clean, maintainable, and production-ready code.  
@@ -28,7 +28,8 @@ I enjoy working in collaborative environments, ensuring that development efforts
 - Backend Development  
 - Database Design & Optimization  
 - API Integrations  
-- C# & ASP.NET  
+- C# & ASP.NET
+- Microservices
 - Next.js (with backend integrations)  
 
 ---
